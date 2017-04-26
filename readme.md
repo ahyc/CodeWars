@@ -5,6 +5,6 @@ Solutions for CodeWars Kata
 
 - Esolang #3 (3 Kyu) [CodeWars Kata Link](https://www.codewars.com/kata/5868a68ba44cfc763e00008d)  
 
-- Conway's Game of Life (3 Kyu)[CodeWars Kata Link] (https://www.codewars.com/kata/52423db9add6f6fc39000354)  
+- Conway's Game of Life (3 Kyu) [CodeWars Kata Link](https://www.codewars.com/kata/52423db9add6f6fc39000354)  
 
 ![CodeWars Kyu Status](https://www.codewars.com/users/ahyc/badges/large)
